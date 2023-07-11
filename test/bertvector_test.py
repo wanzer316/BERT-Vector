@@ -11,6 +11,9 @@ __author__ = 'xmxoxo<xmxoxo@qq.com>'
 或者使用下面来生成：
 BERTVector.py --model_path=d:\\model\chinese_L-12_H-768_A-12 --in_file=test/ --out_file=test/test.pkl
 
+
+
+
 '''
 import os
 import pickle
